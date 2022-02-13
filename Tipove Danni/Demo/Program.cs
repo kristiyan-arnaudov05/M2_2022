@@ -6,7 +6,7 @@ namespace Demo
     {
         static void Main(string[] args)
         {
-            sbyte age = 12; //-128 to 127
+            sbyte sb = 12; //-128 to 127
             byte b = 23; //0 to 255
             short s = 4; //[-32 768 … 32 767]
             ushort us = 5; //[0 … 65 535]
